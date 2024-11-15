@@ -13,3 +13,5 @@ In this project, I analysed restaurant order data for Taste of the World Café f
 
 [Click here to see more details on the analysis process, SQL syntax, and key insights](https://github.com/albinaglv/Restaurant-Orders-Analysis)
 
+<img src="https://github.com/user-attachments/assets/6d0df350-2982-45b0-b896-071d84fe3b9a" alt="RFM" width="600px">
+

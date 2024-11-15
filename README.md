@@ -16,7 +16,7 @@ In this project, I analysed restaurant order data for Taste of the World Café f
 ## [Project 3: Sales and Supply Chain Analyis Report](https://github.com/albinaglv/Sales_Performance_and_Supply_Chain_Analysis)
 Created a Power BI report that provides data-driven insights to assess business performance, with an emphasis on user flexibility and visual clarity. Using a detailed Supply Chain dataset, the report analyzes sales, order processing, fulfillment, and shipping performance across regions, customer segments, and product shipments. Key features include drill-through capabilities, highlighting profitable orders, top customers, and late deliveries, enabling stakeholders to optimise operations and make informed decisions.
 
-[View an Interactive Power BI Dashboard](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Sales-and-Supply-Chain-Analyis-Report/m-p/4235907#M13265)
+[View an interactive Power BI dashboard](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Sales-and-Supply-Chain-Analyis-Report/m-p/4235907#M13265)
 
 [View or download the PBIX file](https://github.com/albinaglv/Sales_Performance_and_Supply_Chain_Analysis/tree/main)
 

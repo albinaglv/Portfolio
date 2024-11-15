@@ -19,6 +19,7 @@ Created a Power BI report that provides data-driven insights to assess business 
 [View the interactive Power BI dashboard](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Sales-and-Supply-Chain-Analyis-Report/m-p/4235907#M13265)
 
 [Download the PBIX file](https://github.com/albinaglv/Sales_Performance_and_Supply_Chain_Analysis/tree/main)
+
 <img src="https://github.com/user-attachments/assets/a5bf0f48-f1c4-4da2-910a-94ff1128fcf0" alt="Dashboard" width="600px">)
 
 

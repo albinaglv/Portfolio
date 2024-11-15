@@ -5,5 +5,5 @@ This project focuses on performing RFM (Recency, Frequency, Monetary) analysis o
 
 [Click here to see more details on the analysis process, SQL syntax, and key insights](https://github.com/albinaglv/RFM_Analysis/blob/main/README.md)
 
-![RFM](https://github.com/user-attachments/assets/e86dc5f1-a6aa-4a03-80e4-b702d72770dd)
+<img src="https://github.com/user-attachments/assets/e86dc5f1-a6aa-4a03-80e4-b702d72770dd" alt="RFM" width="600px">
 
